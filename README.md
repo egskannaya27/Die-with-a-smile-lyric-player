@@ -47,4 +47,5 @@ The timing for the lyrics is hardcoded. To use a different song, you need to upd
 I prefere using a audio software to get the accurate timestamps.
 This program is a simple example of how to use timing and text display in C.
 
-Enjoy the program and feel free to modify it!
+Thank you.
+Guru Sai Prasanna Eppanapally
